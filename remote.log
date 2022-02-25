@@ -1,0 +1,1 @@
+3c9c9f03-72b8-4155-a5a6-3ae0e29328a2 autoenable=true bucket=cneuromod.hcptrt.stimuli chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.hcptrt.stimuli port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1645803340.017848266s
